@@ -1,0 +1,5 @@
+2023-02-09 15:17:25.721 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-09 15:17:26.113 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-09 15:17:32.900 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-09 15:17:39.024 +03:00 [Information] Received HTTP response headers after 6120.2799ms - 200
+2023-02-09 15:17:39.034 +03:00 [Information] End processing HTTP request after 13350.1205ms - 200

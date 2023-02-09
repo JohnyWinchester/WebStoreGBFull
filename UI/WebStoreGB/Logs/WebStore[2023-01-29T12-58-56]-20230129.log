@@ -1,0 +1,20 @@
+2023-01-29 12:58:58.029 +03:00 [Information] Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-29 12:58:58.073 +03:00 [Information] Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-29 12:59:00.124 +03:00 [Information] Received HTTP response headers after 2047.4255ms - 200
+2023-01-29 12:59:00.128 +03:00 [Information] End processing HTTP request after 2105.6486ms - 200
+2023-01-29 12:59:00.209 +03:00 [Information] Start processing HTTP request "GET" https://localhost:5001/api/products/brands
+2023-01-29 12:59:00.211 +03:00 [Information] Sending HTTP request "GET" https://localhost:5001/api/products/brands
+2023-01-29 12:59:00.333 +03:00 [Information] Received HTTP response headers after 121.777ms - 200
+2023-01-29 12:59:00.336 +03:00 [Information] End processing HTTP request after 127.5027ms - 200
+2023-01-29 12:59:00.351 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-01-29 12:59:00.355 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/products
+2023-01-29 12:59:00.517 +03:00 [Information] Received HTTP response headers after 162.2469ms - 200
+2023-01-29 12:59:00.520 +03:00 [Information] End processing HTTP request after 169.4546ms - 200
+2023-01-29 12:59:02.701 +03:00 [Information] Start processing HTTP request "GET" https://localhost:5001/api/values
+2023-01-29 12:59:02.705 +03:00 [Information] Sending HTTP request "GET" https://localhost:5001/api/values
+2023-01-29 12:59:02.715 +03:00 [Information] Received HTTP response headers after 10.1457ms - 200
+2023-01-29 12:59:02.719 +03:00 [Information] End processing HTTP request after 17.2881ms - 200
+2023-01-29 12:59:07.045 +03:00 [Information] Start processing HTTP request "GET" https://localhost:5001/api/values
+2023-01-29 12:59:07.050 +03:00 [Information] Sending HTTP request "GET" https://localhost:5001/api/values
+2023-01-29 12:59:07.056 +03:00 [Information] Received HTTP response headers after 5.6204ms - 200
+2023-01-29 12:59:07.059 +03:00 [Information] End processing HTTP request after 14.5252ms - 200

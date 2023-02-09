@@ -1,0 +1,85 @@
+2023-01-28 15:24:07.411 +03:00 [Information] Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-28 15:24:07.462 +03:00 [Information] Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-28 15:24:09.507 +03:00 [Information] Received HTTP response headers after 2040.386ms - 200
+2023-01-28 15:24:09.511 +03:00 [Information] End processing HTTP request after 2106.9489ms - 200
+2023-01-28 15:24:09.580 +03:00 [Information] Start processing HTTP request "GET" https://localhost:5001/api/products/brands
+2023-01-28 15:24:09.583 +03:00 [Information] Sending HTTP request "GET" https://localhost:5001/api/products/brands
+2023-01-28 15:24:09.666 +03:00 [Information] Received HTTP response headers after 83.4688ms - 200
+2023-01-28 15:24:09.670 +03:00 [Information] End processing HTTP request after 89.393ms - 200
+2023-01-28 15:24:09.691 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-01-28 15:24:09.695 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/products
+2023-01-28 15:24:09.867 +03:00 [Information] Received HTTP response headers after 171.6285ms - 200
+2023-01-28 15:24:09.871 +03:00 [Information] End processing HTTP request after 180.8014ms - 200
+2023-01-28 15:24:26.037 +03:00 [Information] Start processing HTTP request "GET" https://localhost:5001/api/users/User/Normal/TESTIK3
+2023-01-28 15:24:26.058 +03:00 [Information] Sending HTTP request "GET" https://localhost:5001/api/users/User/Normal/TESTIK3
+2023-01-28 15:24:26.140 +03:00 [Information] Received HTTP response headers after 81.9584ms - 200
+2023-01-28 15:24:26.143 +03:00 [Information] End processing HTTP request after 106.1601ms - 200
+2023-01-28 15:24:26.179 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/users/GetPasswordHash
+2023-01-28 15:24:26.183 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/users/GetPasswordHash
+2023-01-28 15:24:26.218 +03:00 [Information] Received HTTP response headers after 34.8493ms - 200
+2023-01-28 15:24:26.222 +03:00 [Information] End processing HTTP request after 43.0328ms - 200
+2023-01-28 15:24:26.296 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/users/GetTwoFactorEnabled
+2023-01-28 15:24:26.303 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/users/GetTwoFactorEnabled
+2023-01-28 15:24:26.313 +03:00 [Information] Received HTTP response headers after 10.6224ms - 200
+2023-01-28 15:24:26.319 +03:00 [Information] End processing HTTP request after 22.1519ms - 200
+2023-01-28 15:24:26.334 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/users/GetTwoFactorEnabled
+2023-01-28 15:24:26.340 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/users/GetTwoFactorEnabled
+2023-01-28 15:24:26.344 +03:00 [Information] Received HTTP response headers after 4.4632ms - 200
+2023-01-28 15:24:26.347 +03:00 [Information] End processing HTTP request after 12.4227ms - 200
+2023-01-28 15:24:26.369 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/users/UserId
+2023-01-28 15:24:26.372 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/users/UserId
+2023-01-28 15:24:26.379 +03:00 [Information] Received HTTP response headers after 6.7249ms - 200
+2023-01-28 15:24:26.381 +03:00 [Information] End processing HTTP request after 12.6247ms - 200
+2023-01-28 15:24:26.387 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/users/UserName
+2023-01-28 15:24:26.390 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/users/UserName
+2023-01-28 15:24:26.397 +03:00 [Information] Received HTTP response headers after 6.4434ms - 200
+2023-01-28 15:24:26.400 +03:00 [Information] End processing HTTP request after 12.9192ms - 200
+2023-01-28 15:24:26.405 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/users/GetEmail
+2023-01-28 15:24:26.408 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/users/GetEmail
+2023-01-28 15:24:26.415 +03:00 [Information] Received HTTP response headers after 7.0561ms - 204
+2023-01-28 15:24:26.418 +03:00 [Information] End processing HTTP request after 13.2224ms - 204
+2023-01-28 15:24:26.423 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/users/GetClaims
+2023-01-28 15:24:26.426 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/users/GetClaims
+2023-01-28 15:24:26.510 +03:00 [Information] Received HTTP response headers after 84.3907ms - 200
+2023-01-28 15:24:26.514 +03:00 [Information] End processing HTTP request after 91.1105ms - 200
+2023-01-28 15:24:26.520 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/users/roles
+2023-01-28 15:24:26.523 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/users/roles
+2023-01-28 15:24:26.546 +03:00 [Information] Received HTTP response headers after 23.3203ms - 200
+2023-01-28 15:24:26.550 +03:00 [Information] End processing HTTP request after 29.6024ms - 200
+2023-01-28 15:24:26.586 +03:00 [Information] Пользователь "Testik3" успешно вошёл в систему
+2023-01-28 15:24:26.689 +03:00 [Information] Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-28 15:24:26.700 +03:00 [Information] Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-28 15:24:26.710 +03:00 [Information] Received HTTP response headers after 9.5153ms - 200
+2023-01-28 15:24:26.714 +03:00 [Information] End processing HTTP request after 25.1513ms - 200
+2023-01-28 15:24:26.720 +03:00 [Information] Start processing HTTP request "GET" https://localhost:5001/api/products/brands
+2023-01-28 15:24:26.725 +03:00 [Information] Sending HTTP request "GET" https://localhost:5001/api/products/brands
+2023-01-28 15:24:26.731 +03:00 [Information] Received HTTP response headers after 5.8466ms - 200
+2023-01-28 15:24:26.735 +03:00 [Information] End processing HTTP request after 14.784ms - 200
+2023-01-28 15:24:26.739 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-01-28 15:24:26.744 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/products
+2023-01-28 15:24:26.753 +03:00 [Information] Received HTTP response headers after 9.0513ms - 200
+2023-01-28 15:24:26.758 +03:00 [Information] End processing HTTP request after 19.0585ms - 200
+2023-01-28 15:24:33.063 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-01-28 15:24:33.067 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/products
+2023-01-28 15:24:33.119 +03:00 [Information] Received HTTP response headers after 52.2384ms - 200
+2023-01-28 15:24:33.123 +03:00 [Information] End processing HTTP request after 60.2791ms - 200
+2023-01-28 15:24:42.005 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-01-28 15:24:42.009 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/products
+2023-01-28 15:24:42.035 +03:00 [Information] Received HTTP response headers after 25.6428ms - 200
+2023-01-28 15:24:42.038 +03:00 [Information] End processing HTTP request after 33.485ms - 200
+2023-01-28 15:24:42.043 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/orders/Testik3
+2023-01-28 15:24:42.047 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/orders/Testik3
+2023-01-28 15:24:42.549 +03:00 [Information] Received HTTP response headers after 501.1594ms - 200
+2023-01-28 15:24:42.552 +03:00 [Information] End processing HTTP request after 508.982ms - 200
+2023-01-28 15:24:46.973 +03:00 [Information] Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-28 15:24:46.977 +03:00 [Information] Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-28 15:24:46.985 +03:00 [Information] Received HTTP response headers after 8.3189ms - 200
+2023-01-28 15:24:46.988 +03:00 [Information] End processing HTTP request after 15.7507ms - 200
+2023-01-28 15:24:46.992 +03:00 [Information] Start processing HTTP request "GET" https://localhost:5001/api/products/brands
+2023-01-28 15:24:46.996 +03:00 [Information] Sending HTTP request "GET" https://localhost:5001/api/products/brands
+2023-01-28 15:24:47.001 +03:00 [Information] Received HTTP response headers after 4.8901ms - 200
+2023-01-28 15:24:47.004 +03:00 [Information] End processing HTTP request after 11.372ms - 200
+2023-01-28 15:24:47.008 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-01-28 15:24:47.011 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/products
+2023-01-28 15:24:47.016 +03:00 [Information] Received HTTP response headers after 4.9814ms - 200
+2023-01-28 15:24:47.019 +03:00 [Information] End processing HTTP request after 11.0181ms - 200

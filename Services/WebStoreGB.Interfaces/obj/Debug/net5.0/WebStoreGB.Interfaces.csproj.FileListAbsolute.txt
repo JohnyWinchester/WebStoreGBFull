@@ -1,0 +1,16 @@
+E:\GeekBrains\ASP 01\WebStoreGB\Services\WebStoreGB.Interfaces\obj\Debug\net5.0\WebStoreGB.Interfaces.csproj.AssemblyReference.cache
+E:\GeekBrains\ASP 01\WebStoreGB\Services\WebStoreGB.Interfaces\obj\Debug\net5.0\WebStoreGB.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\ASP 01\WebStoreGB\Services\WebStoreGB.Interfaces\obj\Debug\net5.0\WebStoreGB.Interfaces.AssemblyInfoInputs.cache
+E:\GeekBrains\ASP 01\WebStoreGB\Services\WebStoreGB.Interfaces\obj\Debug\net5.0\WebStoreGB.Interfaces.AssemblyInfo.cs
+E:\GeekBrains\ASP 01\WebStoreGB\Services\WebStoreGB.Interfaces\obj\Debug\net5.0\WebStoreGB.Interfaces.csproj.CoreCompileInputs.cache
+E:\GeekBrains\ASP 01\WebStoreGB\Services\WebStoreGB.Interfaces\bin\Debug\net5.0\WebStoreGB.Interfaces.deps.json
+E:\GeekBrains\ASP 01\WebStoreGB\Services\WebStoreGB.Interfaces\bin\Debug\net5.0\WebStoreGB.Interfaces.dll
+E:\GeekBrains\ASP 01\WebStoreGB\Services\WebStoreGB.Interfaces\bin\Debug\net5.0\WebStoreGB.Interfaces.pdb
+E:\GeekBrains\ASP 01\WebStoreGB\Services\WebStoreGB.Interfaces\bin\Debug\net5.0\WebStoreGB.Domain.dll
+E:\GeekBrains\ASP 01\WebStoreGB\Services\WebStoreGB.Interfaces\bin\Debug\net5.0\WebStoreGB.Domain.pdb
+E:\GeekBrains\ASP 01\WebStoreGB\Services\WebStoreGB.Interfaces\obj\Debug\net5.0\WebStoreGB.Interfaces.csproj.CopyComplete
+E:\GeekBrains\ASP 01\WebStoreGB\Services\WebStoreGB.Interfaces\obj\Debug\net5.0\WebStoreGB.Interfaces.dll
+E:\GeekBrains\ASP 01\WebStoreGB\Services\WebStoreGB.Interfaces\obj\Debug\net5.0\ref\WebStoreGB.Interfaces.dll
+E:\GeekBrains\ASP 01\WebStoreGB\Services\WebStoreGB.Interfaces\obj\Debug\net5.0\WebStoreGB.Interfaces.pdb
+E:\GeekBrains\ASP 01\WebStoreGB\Services\WebStoreGB.Interfaces\obj\Debug\net5.0\refint\WebStoreGB.Interfaces.dll
+E:\GeekBrains\ASP 01\WebStoreGB\Services\WebStoreGB.Interfaces\bin\Debug\net5.0\WebStoreGB.Domain.xml

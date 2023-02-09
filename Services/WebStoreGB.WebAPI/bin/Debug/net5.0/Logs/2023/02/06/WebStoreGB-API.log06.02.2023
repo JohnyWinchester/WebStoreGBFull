@@ -1,0 +1,38 @@
+INFO  13 2023-02-06 12:11:27,384 [13] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Now listening on: https://localhost:5001
+INFO  13 2023-02-06 12:11:28,937 [13] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Application started. Press Ctrl+C to shut down.
+INFO  13 2023-02-06 12:11:29,141 [13] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Hosting environment: Development
+INFO  13 2023-02-06 12:11:29,153 [13] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Content root path: E:\GeekBrains\ASP 01\WebStoreGB\Services\WebStoreGB.WebAPI
+WARN  13 2023-02-06 12:12:24,225 [13] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:74) - The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results.
+WARN  13 2023-02-06 12:12:24,592 [13] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:74) - The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results.
+INFO  13 2023-02-06 12:17:04,647 [13] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Now listening on: https://localhost:5001
+INFO  13 2023-02-06 12:17:04,697 [13] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Application started. Press Ctrl+C to shut down.
+INFO  13 2023-02-06 12:17:04,700 [13] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Hosting environment: Development
+INFO  13 2023-02-06 12:17:04,704 [13] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Content root path: E:\GeekBrains\ASP 01\WebStoreGB\Services\WebStoreGB.WebAPI
+INFO  4 2023-02-06 12:20:11,579 [4] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Now listening on: https://localhost:5001
+INFO  4 2023-02-06 12:20:11,658 [4] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Application started. Press Ctrl+C to shut down.
+INFO  4 2023-02-06 12:20:11,662 [4] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Hosting environment: Development
+INFO  4 2023-02-06 12:20:11,666 [4] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Content root path: E:\GeekBrains\ASP 01\WebStoreGB\Services\WebStoreGB.WebAPI
+INFO  8 2023-02-06 12:24:20,063 [8] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Now listening on: https://localhost:5001
+INFO  8 2023-02-06 12:24:20,143 [8] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Application started. Press Ctrl+C to shut down.
+INFO  8 2023-02-06 12:24:20,145 [8] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Hosting environment: Development
+INFO  8 2023-02-06 12:24:20,147 [8] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Content root path: E:\GeekBrains\ASP 01\WebStoreGB\Services\WebStoreGB.WebAPI
+INFO  5 2023-02-06 14:22:54,488 [5] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Now listening on: https://localhost:5001
+INFO  5 2023-02-06 14:22:54,552 [5] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Application started. Press Ctrl+C to shut down.
+INFO  5 2023-02-06 14:22:54,556 [5] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Hosting environment: Development
+INFO  5 2023-02-06 14:22:54,559 [5] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Content root path: E:\GeekBrains\ASP 01\WebStoreGB\Services\WebStoreGB.WebAPI
+INFO  9 2023-02-06 14:23:38,720 [9] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Now listening on: https://localhost:5001
+INFO  9 2023-02-06 14:23:38,778 [9] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Application started. Press Ctrl+C to shut down.
+INFO  9 2023-02-06 14:23:38,781 [9] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Hosting environment: Development
+INFO  9 2023-02-06 14:23:38,785 [9] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Content root path: E:\GeekBrains\ASP 01\WebStoreGB\Services\WebStoreGB.WebAPI
+INFO  8 2023-02-06 14:26:46,145 [8] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Now listening on: https://localhost:5001
+INFO  8 2023-02-06 14:26:46,197 [8] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Application started. Press Ctrl+C to shut down.
+INFO  8 2023-02-06 14:26:46,201 [8] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Hosting environment: Development
+INFO  8 2023-02-06 14:26:46,205 [8] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Content root path: E:\GeekBrains\ASP 01\WebStoreGB\Services\WebStoreGB.WebAPI
+INFO  12 2023-02-06 14:29:22,668 [12] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Now listening on: https://localhost:5001
+INFO  12 2023-02-06 14:29:22,713 [12] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Application started. Press Ctrl+C to shut down.
+INFO  12 2023-02-06 14:29:22,716 [12] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Hosting environment: Development
+INFO  12 2023-02-06 14:29:22,718 [12] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Content root path: E:\GeekBrains\ASP 01\WebStoreGB\Services\WebStoreGB.WebAPI
+INFO  8 2023-02-06 14:58:43,084 [8] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Now listening on: https://localhost:5001
+INFO  8 2023-02-06 14:58:43,138 [8] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Application started. Press Ctrl+C to shut down.
+INFO  8 2023-02-06 14:58:43,141 [8] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Hosting environment: Development
+INFO  8 2023-02-06 14:58:43,145 [8] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Content root path: E:\GeekBrains\ASP 01\WebStoreGB\Services\WebStoreGB.WebAPI

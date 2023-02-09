@@ -1,0 +1,20 @@
+2023-01-27 12:48:36.992 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-27 12:48:37.577 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-27 13:00:27.694 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-27 13:00:27.741 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-27 13:22:22.563 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-27 13:22:22.874 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-27 13:47:20.019 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-27 13:47:20.078 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-27 13:47:37.413 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-27 13:47:37.474 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-27 13:51:24.270 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-27 13:51:24.323 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-27 15:59:13.819 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-27 15:59:13.872 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-27 18:00:33.574 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-27 18:00:33.692 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-27 18:15:02.951 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-27 18:15:04.105 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-27 19:31:38.661 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-27 19:31:39.021 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections

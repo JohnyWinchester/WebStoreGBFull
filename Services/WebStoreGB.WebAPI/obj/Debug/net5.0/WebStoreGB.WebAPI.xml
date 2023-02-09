@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebStoreGB.WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:WebStoreGB.WebAPI.Controllers.EmployeesApiController.Get">
+            <summary>Получение всех сотрудников</summary>
+            <returns>Список сотрудников</returns>
+        </member>
+        <member name="M:WebStoreGB.WebAPI.Controllers.EmployeesApiController.GetById(System.Int32)">
+            <summary>
+            Получение сотрудника по его идентификатору
+            </summary>
+            <param name="id">Идентификатор сотрудника</param>
+            <returns>Сотрудник с указанным идентификатором</returns>
+        </member>
+    </members>
+</doc>

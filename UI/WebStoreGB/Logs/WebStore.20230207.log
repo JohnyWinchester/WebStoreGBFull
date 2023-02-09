@@ -1,0 +1,397 @@
+2023-02-07 11:59:22.604 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 11:59:23.187 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 11:59:31.213 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 11:59:39.722 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 11:59:52.505 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 12:00:13.374 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 12:00:17.855 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 4478.175ms - 200
+2023-02-07 12:00:18.097 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 55518.23ms - 200
+2023-02-07 12:00:21.243 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 12:00:21.254 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 12:00:21.408 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 154.0045ms - 200
+2023-02-07 12:00:21.412 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 168.9453ms - 200
+2023-02-07 12:00:21.472 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 12:00:21.476 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 12:00:23.629 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 2152.378ms - 200
+2023-02-07 12:00:23.648 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 2176.7518ms - 200
+2023-02-07 12:00:25.295 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 12:00:25.303 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 12:00:25.332 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 28.8103ms - 200
+2023-02-07 12:00:25.337 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 42.4278ms - 200
+2023-02-07 12:00:28.755 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 12:00:28.758 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 12:00:28.767 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 8.6511ms - 200
+2023-02-07 12:00:28.770 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 15.8814ms - 200
+2023-02-07 12:01:38.494 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 12:01:38.499 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 12:01:38.506 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 7.2374ms - 200
+2023-02-07 12:01:38.510 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 15.8936ms - 200
+2023-02-07 12:01:38.768 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 12:01:38.772 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 12:01:38.782 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 10.1881ms - 200
+2023-02-07 12:01:38.786 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 18.0956ms - 200
+2023-02-07 12:01:39.583 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 12:01:39.587 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 12:01:39.594 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 6.1721ms - 200
+2023-02-07 12:01:39.597 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 13.7008ms - 200
+2023-02-07 12:01:39.738 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 12:01:39.743 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 12:01:39.750 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 7.0637ms - 200
+2023-02-07 12:01:39.755 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 16.9304ms - 200
+2023-02-07 12:01:42.130 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPIIdentity.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/users/User/Normal/TESTIK3
+2023-02-07 12:01:42.134 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPIIdentity.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/users/User/Normal/TESTIK3
+2023-02-07 12:01:42.176 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPIIdentity.ClientHandler Received HTTP response headers after 41.2074ms - 200
+2023-02-07 12:01:42.180 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPIIdentity.LogicalHandler End processing HTTP request after 49.5164ms - 200
+2023-02-07 14:54:18.505 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 14:54:18.571 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 14:54:25.430 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 14:54:31.271 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 5838.1642ms - 200
+2023-02-07 14:54:31.276 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 12776.7781ms - 200
+2023-02-07 14:54:33.041 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 14:54:33.043 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 14:54:33.160 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 116.2101ms - 200
+2023-02-07 14:54:33.164 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 122.7436ms - 200
+2023-02-07 14:54:33.185 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 14:54:33.188 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 14:54:33.429 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 241.7526ms - 200
+2023-02-07 14:54:33.434 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 248.974ms - 200
+2023-02-07 14:54:34.699 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 14:54:34.702 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 14:54:34.713 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 10.83ms - 200
+2023-02-07 14:54:34.716 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 17.0036ms - 200
+2023-02-07 14:54:35.986 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 14:54:35.990 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 14:54:35.995 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 5.7922ms - 200
+2023-02-07 14:54:35.998 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 12.0303ms - 200
+2023-02-07 16:13:18.131 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 16:13:18.204 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 16:13:24.928 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 16:13:25.861 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 927.3532ms - 200
+2023-02-07 16:13:25.871 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 7748.815ms - 200
+2023-02-07 16:13:26.076 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 16:13:26.083 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 16:13:26.470 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 386.4148ms - 200
+2023-02-07 16:13:26.473 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 397.7823ms - 200
+2023-02-07 16:13:26.510 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:13:26.515 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:13:27.189 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 674.4937ms - 200
+2023-02-07 16:13:27.194 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 683.3572ms - 200
+2023-02-07 16:13:27.525 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:13:27.528 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:13:27.547 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 18.6256ms - 200
+2023-02-07 16:13:27.552 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 26.7159ms - 200
+2023-02-07 16:13:28.294 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:13:28.297 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:13:28.303 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 6.0323ms - 200
+2023-02-07 16:13:28.306 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 12.3274ms - 200
+2023-02-07 16:13:29.509 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:13:29.513 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:13:29.519 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 6.0459ms - 200
+2023-02-07 16:13:29.522 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 12.7394ms - 200
+2023-02-07 16:13:29.654 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:13:29.660 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:13:29.666 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 6.6265ms - 200
+2023-02-07 16:13:29.670 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 16.5378ms - 200
+2023-02-07 16:25:22.546 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 16:25:22.610 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 16:25:29.083 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 16:25:29.366 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 278.5146ms - 200
+2023-02-07 16:25:29.372 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 6833.6482ms - 200
+2023-02-07 16:25:29.509 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 16:25:29.513 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 16:25:29.578 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 64.9371ms - 200
+2023-02-07 16:25:29.580 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 70.9688ms - 200
+2023-02-07 16:25:29.601 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:25:29.606 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:25:29.765 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 158.9705ms - 200
+2023-02-07 16:25:29.768 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 166.7705ms - 200
+2023-02-07 16:25:30.036 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:25:30.039 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:25:30.051 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 11.0894ms - 200
+2023-02-07 16:25:30.054 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 17.5704ms - 200
+2023-02-07 16:25:30.641 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:25:30.645 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:25:30.652 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 7.2765ms - 200
+2023-02-07 16:25:30.656 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 14.754ms - 200
+2023-02-07 16:25:32.191 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:25:32.195 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:25:32.201 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 5.8148ms - 200
+2023-02-07 16:25:32.205 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 13.8963ms - 200
+2023-02-07 16:25:32.336 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:25:32.339 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:25:32.346 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 6.3056ms - 200
+2023-02-07 16:25:32.349 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 13.2751ms - 200
+2023-02-07 16:25:33.484 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Получен запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500
+2023-02-07 16:25:33.999 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Ответ на запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500
+2023-02-07 16:25:43.406 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Получен запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500
+2023-02-07 16:25:43.919 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Ответ на запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500
+2023-02-07 16:25:44.107 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Получен запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500
+2023-02-07 16:25:44.625 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Ответ на запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500
+2023-02-07 16:26:02.097 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 16:26:02.153 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 16:26:04.093 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 1934.9547ms - 200
+2023-02-07 16:26:04.105 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 2014.9494ms - 200
+2023-02-07 16:26:04.317 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 16:26:04.336 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 16:26:04.516 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 179.9348ms - 200
+2023-02-07 16:26:04.521 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 203.5373ms - 200
+2023-02-07 16:26:04.557 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:26:04.568 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:26:04.777 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 209.3133ms - 200
+2023-02-07 16:26:04.780 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 223.5374ms - 200
+2023-02-07 16:26:05.076 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:26:05.079 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:26:05.091 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 12.5746ms - 200
+2023-02-07 16:26:05.094 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 18.2018ms - 200
+2023-02-07 16:26:05.635 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:26:05.639 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:26:05.645 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 6.2172ms - 200
+2023-02-07 16:26:05.650 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 14.706ms - 200
+2023-02-07 16:26:07.271 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:26:07.275 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:26:07.280 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 5.6592ms - 200
+2023-02-07 16:26:07.283 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 12.0759ms - 200
+2023-02-07 16:26:07.423 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:26:07.427 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 16:26:07.432 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 5.7473ms - 200
+2023-02-07 16:26:07.437 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 13.6314ms - 200
+2023-02-07 16:26:08.229 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Получен запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500
+2023-02-07 16:26:08.742 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Ответ на запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500
+2023-02-07 16:26:09.884 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Получен запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500
+2023-02-07 16:26:10.398 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Ответ на запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500
+2023-02-07 16:26:11.315 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Получен запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500
+2023-02-07 16:26:11.836 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Ответ на запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500
+2023-02-07 17:14:11.538 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 17:14:11.668 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 17:14:19.390 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 17:14:21.813 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 2420.5148ms - 200
+2023-02-07 17:14:21.818 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 10290.5801ms - 200
+2023-02-07 17:14:21.989 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 17:14:22.009 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 17:14:22.102 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 93.1501ms - 200
+2023-02-07 17:14:22.107 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 117.7997ms - 200
+2023-02-07 17:14:22.133 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:14:22.137 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:14:22.369 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 232.5579ms - 200
+2023-02-07 17:14:22.373 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 240.6593ms - 200
+2023-02-07 17:14:22.695 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:14:22.699 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:14:22.711 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 12.7908ms - 200
+2023-02-07 17:14:22.715 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 19.4198ms - 200
+2023-02-07 17:14:23.354 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:14:23.357 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:14:23.363 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 6.2446ms - 200
+2023-02-07 17:14:23.366 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 12.4435ms - 200
+2023-02-07 17:14:24.635 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:14:24.638 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:14:24.645 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 7.2626ms - 200
+2023-02-07 17:14:24.648 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 13.2296ms - 200
+2023-02-07 17:14:24.791 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:14:24.795 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:14:24.801 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 5.9448ms - 200
+2023-02-07 17:14:24.804 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 13.4404ms - 200
+2023-02-07 17:14:25.698 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Получен запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:14:27.711 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Ответ на запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:14:41.815 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Получен запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:14:43.830 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Ответ на запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:15:41.558 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 17:15:41.620 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 17:15:46.123 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 4498.73ms - 200
+2023-02-07 17:15:46.132 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 4579.963ms - 200
+2023-02-07 17:15:46.377 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 17:15:46.380 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 17:15:46.542 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 162.4641ms - 200
+2023-02-07 17:15:46.545 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 167.9883ms - 200
+2023-02-07 17:15:46.577 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:15:46.580 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:15:46.854 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 274.41ms - 200
+2023-02-07 17:15:46.857 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 280.3015ms - 200
+2023-02-07 17:15:47.259 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:15:47.262 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:15:47.275 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 12.4816ms - 200
+2023-02-07 17:15:47.278 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 19.1967ms - 200
+2023-02-07 17:15:48.051 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:15:48.055 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:15:48.063 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 8.2632ms - 200
+2023-02-07 17:15:48.066 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 15.5328ms - 200
+2023-02-07 17:15:50.279 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:15:50.283 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:15:50.289 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 6.6587ms - 200
+2023-02-07 17:15:50.294 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 15.257ms - 200
+2023-02-07 17:15:50.433 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:15:50.437 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:15:50.444 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 6.3469ms - 200
+2023-02-07 17:15:50.447 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 14.5201ms - 200
+2023-02-07 17:15:51.698 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Получен запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:15:53.720 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Ответ на запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:17:20.287 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 17:17:20.403 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 17:17:25.381 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 4975.591ms - 200
+2023-02-07 17:17:25.390 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 5111.8299ms - 200
+2023-02-07 17:17:25.584 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 17:17:25.587 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 17:17:25.663 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 76.1427ms - 200
+2023-02-07 17:17:25.666 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 81.6037ms - 200
+2023-02-07 17:17:25.688 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:17:25.691 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:17:26.008 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 316.7704ms - 200
+2023-02-07 17:17:26.012 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 323.4095ms - 200
+2023-02-07 17:17:26.272 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:17:26.275 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:17:26.288 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 12.4963ms - 200
+2023-02-07 17:17:26.291 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 19.4387ms - 200
+2023-02-07 17:17:26.845 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:17:26.848 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:17:26.854 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 6.2562ms - 200
+2023-02-07 17:17:26.858 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 13.0447ms - 200
+2023-02-07 17:17:28.293 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:17:28.297 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:17:28.303 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 6.2323ms - 200
+2023-02-07 17:17:28.306 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 13.8601ms - 200
+2023-02-07 17:17:28.441 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:17:28.445 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:17:28.452 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 6.7799ms - 200
+2023-02-07 17:17:28.455 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 14.1898ms - 200
+2023-02-07 17:17:29.286 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Получен запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:17:31.302 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Ответ на запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:17:33.584 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Получен запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:17:35.590 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Ответ на запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:17:37.338 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Получен запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500
+2023-02-07 17:17:37.853 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Ответ на запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500
+2023-02-07 17:17:38.926 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Получен запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:17:38.981 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Получен запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:17:40.938 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Ответ на запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:17:40.985 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Ответ на запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:18:12.235 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 17:18:12.314 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 17:18:13.050 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 730.7269ms - 200
+2023-02-07 17:18:13.062 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 835.8248ms - 200
+2023-02-07 17:18:13.302 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 17:18:13.307 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 17:18:13.407 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 99.8099ms - 200
+2023-02-07 17:18:13.410 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 107.5515ms - 200
+2023-02-07 17:18:13.440 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:18:13.468 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:18:13.750 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 281.5217ms - 200
+2023-02-07 17:18:13.753 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 313.1764ms - 200
+2023-02-07 17:18:14.051 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:18:14.054 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:18:14.066 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 12.0202ms - 200
+2023-02-07 17:18:14.069 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 17.4554ms - 200
+2023-02-07 17:18:14.607 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:18:14.610 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:18:14.617 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 6.3713ms - 200
+2023-02-07 17:18:14.619 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 12.7392ms - 200
+2023-02-07 17:18:15.796 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:18:15.801 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:18:15.807 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 6.5606ms - 200
+2023-02-07 17:18:15.810 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 14.0943ms - 200
+2023-02-07 17:18:15.938 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:18:15.941 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:18:15.948 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 7.2749ms - 200
+2023-02-07 17:18:15.952 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 13.7727ms - 200
+2023-02-07 17:18:16.646 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Получен запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:18:18.659 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Ответ на запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:56:47.802 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 17:56:47.861 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 17:56:54.770 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 17:56:55.053 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 279.6414ms - 200
+2023-02-07 17:56:55.060 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 7264.9026ms - 200
+2023-02-07 17:56:55.187 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 17:56:55.190 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 17:56:55.262 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 71.5497ms - 200
+2023-02-07 17:56:55.266 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 78.3462ms - 200
+2023-02-07 17:56:55.288 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:56:55.292 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:56:55.451 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 159.4201ms - 200
+2023-02-07 17:56:55.455 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 167.4738ms - 200
+2023-02-07 17:56:55.716 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:56:55.719 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:56:55.730 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 10.7235ms - 200
+2023-02-07 17:56:55.733 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 16.5439ms - 200
+2023-02-07 17:56:56.261 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:56:56.264 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:56:56.271 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 6.3278ms - 200
+2023-02-07 17:56:56.274 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 13.0461ms - 200
+2023-02-07 17:56:57.822 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:56:57.826 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:56:57.832 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 6.481ms - 200
+2023-02-07 17:56:57.835 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 13.0813ms - 200
+2023-02-07 17:56:57.993 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:56:57.998 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:56:58.005 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 7.1092ms - 200
+2023-02-07 17:56:58.008 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 15.1882ms - 200
+2023-02-07 17:57:42.068 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Получен запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500
+2023-02-07 17:57:42.581 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Ответ на запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500
+2023-02-07 17:57:42.680 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Получен запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:57:44.691 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Ответ на запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:58:20.009 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 17:58:20.073 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 17:58:22.211 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 2132.3752ms - 200
+2023-02-07 17:58:22.220 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 2220.3589ms - 200
+2023-02-07 17:58:22.383 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 17:58:22.388 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 17:58:22.461 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 73.1659ms - 200
+2023-02-07 17:58:22.464 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 80.2461ms - 200
+2023-02-07 17:58:22.488 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:58:22.492 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:58:22.670 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 177.2983ms - 200
+2023-02-07 17:58:22.674 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 185.5625ms - 200
+2023-02-07 17:58:22.952 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:58:22.955 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:58:22.966 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 11.3079ms - 200
+2023-02-07 17:58:22.969 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 17.3277ms - 200
+2023-02-07 17:58:23.518 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:58:23.523 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:58:23.532 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 9.2986ms - 200
+2023-02-07 17:58:23.537 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 19.1223ms - 200
+2023-02-07 17:58:25.719 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:58:25.722 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:58:25.728 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 5.634ms - 200
+2023-02-07 17:58:25.731 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 12.9572ms - 200
+2023-02-07 17:58:25.880 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:58:25.883 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:58:25.889 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 5.5806ms - 200
+2023-02-07 17:58:25.892 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 11.4663ms - 200
+2023-02-07 17:58:26.628 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Получен запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500
+2023-02-07 17:58:27.147 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Ответ на запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500
+2023-02-07 17:58:27.212 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Получен запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:58:27.671 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Получен запрос к GetJSON - id:321, msg:"QWE", Delay:1000
+2023-02-07 17:58:28.681 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Ответ на запрос к GetJSON - id:321, msg:"QWE", Delay:1000
+2023-02-07 17:58:29.231 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Ответ на запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:58:44.097 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Получен запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500
+2023-02-07 17:58:44.611 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Ответ на запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500
+2023-02-07 17:58:45.755 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Получен запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:58:47.775 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Ответ на запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:58:50.104 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Получен запрос к GetJSON - id:321, msg:"QWE", Delay:1000
+2023-02-07 17:58:51.121 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Ответ на запрос к GetJSON - id:321, msg:"QWE", Delay:1000
+2023-02-07 18:00:36.737 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 18:00:36.801 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 18:00:38.912 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 2106.3662ms - 200
+2023-02-07 18:00:38.921 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 2191.992ms - 200
+2023-02-07 18:00:39.112 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 18:00:39.115 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 18:00:39.198 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 82.3544ms - 200
+2023-02-07 18:00:39.202 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 89.61ms - 200
+2023-02-07 18:00:39.230 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 18:00:39.233 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 18:00:39.435 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 201.7008ms - 200
+2023-02-07 18:00:39.439 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 209.5113ms - 200
+2023-02-07 18:00:39.713 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 18:00:39.716 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 18:00:39.728 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 12.6807ms - 200
+2023-02-07 18:00:39.731 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 18.8934ms - 200
+2023-02-07 18:00:40.332 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 18:00:40.335 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 18:00:40.342 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 6.5382ms - 200
+2023-02-07 18:00:40.345 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 13.3817ms - 200
+2023-02-07 18:00:41.980 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 18:00:41.984 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 18:00:41.989 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 5.5098ms - 200
+2023-02-07 18:00:41.992 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 12.1713ms - 200
+2023-02-07 18:00:42.125 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 18:00:42.131 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 18:00:42.140 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.ClientHandler Received HTTP response headers after 9.7944ms - 200
+2023-02-07 18:00:42.144 +03:00 [Information] System.Net.Http.HttpClient.WebStoreGBWebAPI.LogicalHandler End processing HTTP request after 19.6517ms - 200
+2023-02-07 18:00:43.595 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Получен запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500
+2023-02-07 18:00:44.113 +03:00 [Information] WebStoreGB.Controllers.AjaxTestController Ответ на запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500

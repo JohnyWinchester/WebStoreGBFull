@@ -1,0 +1,2 @@
+WARN  13 2023-01-30 12:41:16,741 [13] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:74) - Failed to determine the https port for redirect.
+WARN  13 2023-01-30 16:18:06,147 [13] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:74) - Failed to determine the https port for redirect.

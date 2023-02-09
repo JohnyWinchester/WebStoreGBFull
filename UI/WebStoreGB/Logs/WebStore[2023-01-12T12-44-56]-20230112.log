@@ -1,0 +1,23 @@
+2023-01-12 12:44:59.827 +03:00 [Information] Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-12 12:44:59.876 +03:00 [Information] Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-12 12:45:02.017 +03:00 [Information] Received HTTP response headers after 2134.7363ms - 200
+2023-01-12 12:45:02.024 +03:00 [Information] End processing HTTP request after 2202.4493ms - 200
+2023-01-12 12:45:02.094 +03:00 [Information] Start processing HTTP request "GET" https://localhost:5001/api/products/brands
+2023-01-12 12:45:02.097 +03:00 [Information] Sending HTTP request "GET" https://localhost:5001/api/products/brands
+2023-01-12 12:45:02.171 +03:00 [Information] Received HTTP response headers after 73.9487ms - 200
+2023-01-12 12:45:02.174 +03:00 [Information] End processing HTTP request after 80.4569ms - 200
+2023-01-12 12:45:02.200 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-01-12 12:45:02.203 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/products
+2023-01-12 12:45:02.386 +03:00 [Information] Received HTTP response headers after 183.3382ms - 200
+2023-01-12 12:45:02.389 +03:00 [Information] End processing HTTP request after 189.2616ms - 200
+2023-01-12 12:45:14.870 +03:00 [Information] Start processing HTTP request "GET" https://localhost:5001/api/users/User/Normal/TESTIK
+2023-01-12 12:45:14.874 +03:00 [Information] Sending HTTP request "GET" https://localhost:5001/api/users/User/Normal/TESTIK
+2023-01-12 12:45:14.905 +03:00 [Information] Received HTTP response headers after 31.715ms - 200
+2023-01-12 12:45:14.909 +03:00 [Information] End processing HTTP request after 38.9482ms - 200
+2023-01-12 12:45:14.980 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/users/GetPasswordHash
+2023-01-12 12:45:14.984 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/users/GetPasswordHash
+2023-01-12 12:45:15.013 +03:00 [Information] Received HTTP response headers after 28.6358ms - 200
+2023-01-12 12:45:15.017 +03:00 [Information] End processing HTTP request after 36.8537ms - 200
+2023-01-12 12:45:15.038 +03:00 [Warning] Invalid password for user.
+2023-01-12 12:45:15.042 +03:00 [Warning] User failed to provide the correct password.
+2023-01-12 12:45:15.045 +03:00 [Warning] Ошибка ввода имени пользователя или пароля при входу "Testik"

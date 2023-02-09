@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebStoreGB.Domain</name>
+    </assembly>
+    <members>
+        <member name="T:WebStoreGB.Domain.Models.Employee">
+            <summary>
+            Информация о сотруднике
+            </summary>
+        </member>
+        <member name="P:WebStoreGB.Domain.Models.Employee.Id">
+            <summary>
+            Идентификатор сотрудника
+            </summary>
+        </member>
+        <member name="P:WebStoreGB.Domain.Models.Employee.FirstName">
+            <summary>
+            Имя сотрудника
+            </summary>
+        </member>
+        <member name="P:WebStoreGB.Domain.Models.Employee.LastName">
+            <summary>
+            Фамилия сотрудника
+            </summary>
+        </member>
+        <member name="P:WebStoreGB.Domain.Models.Employee.Patronymic">
+            <summary>
+            Отчество сотрудника
+            </summary>
+        </member>
+        <member name="P:WebStoreGB.Domain.Models.Employee.Age">
+            <summary>
+            Возраст сотрудника
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,12 @@
+INFO  1 2023-01-12 11:18:36,994 [1] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Now listening on: http://localhost:5000
+INFO  1 2023-01-12 11:18:44,400 [1] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Application started. Press Ctrl+C to shut down.
+INFO  1 2023-01-12 11:18:44,586 [1] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Hosting environment: Development
+INFO  1 2023-01-12 11:18:44,589 [1] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Content root path: E:\GeekBrains\ASP 01\WebStoreGB\UI\WebStoreGB
+INFO  1 2023-01-12 11:22:25,810 [1] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Now listening on: http://localhost:5000
+INFO  1 2023-01-12 11:22:25,854 [1] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Application started. Press Ctrl+C to shut down.
+INFO  1 2023-01-12 11:22:25,855 [1] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Hosting environment: Development
+INFO  1 2023-01-12 11:22:25,858 [1] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Content root path: E:\GeekBrains\ASP 01\WebStoreGB\UI\WebStoreGB
+INFO  1 2023-01-12 11:24:53,635 [1] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Now listening on: http://localhost:5000
+INFO  1 2023-01-12 11:24:53,678 [1] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Application started. Press Ctrl+C to shut down.
+INFO  1 2023-01-12 11:24:53,680 [1] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Hosting environment: Development
+INFO  1 2023-01-12 11:24:53,681 [1] WebStore.Logger.Log4NetLogger.Log(E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\Log4NetLogger.cs:70) - Content root path: E:\GeekBrains\ASP 01\WebStoreGB\UI\WebStoreGB

@@ -1,0 +1,449 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Services\\WebStoreGB.WebAPI\\WebStoreGB.WebAPI.csproj": {}
+  },
+  "projects": {
+    "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Common\\WebStoreGB.Domain\\WebStoreGB.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Common\\WebStoreGB.Domain\\WebStoreGB.Domain.csproj",
+        "projectName": "WebStoreGB.Domain",
+        "projectPath": "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Common\\WebStoreGB.Domain\\WebStoreGB.Domain.csproj",
+        "packagesPath": "C:\\Users\\Andrey\\.nuget\\packages\\",
+        "outputPath": "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Common\\WebStoreGB.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Visual Stuio Кэш\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Andrey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.DataAnnotations": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Data\\WebStoreGB.DAL\\WebStoreGB.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Data\\WebStoreGB.DAL\\WebStoreGB.DAL.csproj",
+        "projectName": "WebStoreGB.DAL",
+        "projectPath": "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Data\\WebStoreGB.DAL\\WebStoreGB.DAL.csproj",
+        "packagesPath": "C:\\Users\\Andrey\\.nuget\\packages\\",
+        "outputPath": "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Data\\WebStoreGB.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Visual Stuio Кэш\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Andrey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Common\\WebStoreGB.Domain\\WebStoreGB.Domain.csproj": {
+                "projectPath": "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Common\\WebStoreGB.Domain\\WebStoreGB.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Services\\WebStoreGB.Interfaces\\WebStoreGB.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Services\\WebStoreGB.Interfaces\\WebStoreGB.Interfaces.csproj",
+        "projectName": "WebStoreGB.Interfaces",
+        "projectPath": "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Services\\WebStoreGB.Interfaces\\WebStoreGB.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Andrey\\.nuget\\packages\\",
+        "outputPath": "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Services\\WebStoreGB.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Visual Stuio Кэш\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Andrey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Common\\WebStoreGB.Domain\\WebStoreGB.Domain.csproj": {
+                "projectPath": "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Common\\WebStoreGB.Domain\\WebStoreGB.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Services\\WebStoreGB.Services\\WebStoreGB.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Services\\WebStoreGB.Services\\WebStoreGB.Services.csproj",
+        "projectName": "WebStoreGB.Services",
+        "projectPath": "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Services\\WebStoreGB.Services\\WebStoreGB.Services.csproj",
+        "packagesPath": "C:\\Users\\Andrey\\.nuget\\packages\\",
+        "outputPath": "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Services\\WebStoreGB.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Visual Stuio Кэш\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Andrey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Data\\WebStoreGB.DAL\\WebStoreGB.DAL.csproj": {
+                "projectPath": "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Data\\WebStoreGB.DAL\\WebStoreGB.DAL.csproj"
+              },
+              "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Services\\WebStoreGB.Interfaces\\WebStoreGB.Interfaces.csproj": {
+                "projectPath": "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Services\\WebStoreGB.Interfaces\\WebStoreGB.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Services\\WebStoreGB.WebAPI\\WebStoreGB.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Services\\WebStoreGB.WebAPI\\WebStoreGB.WebAPI.csproj",
+        "projectName": "WebStoreGB.WebAPI",
+        "projectPath": "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Services\\WebStoreGB.WebAPI\\WebStoreGB.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\Andrey\\.nuget\\packages\\",
+        "outputPath": "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Services\\WebStoreGB.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Visual Stuio Кэш\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Andrey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Data\\WebStoreGB.DAL\\WebStoreGB.DAL.csproj": {
+                "projectPath": "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Data\\WebStoreGB.DAL\\WebStoreGB.DAL.csproj"
+              },
+              "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Services\\WebStoreGB.Interfaces\\WebStoreGB.Interfaces.csproj": {
+                "projectPath": "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Services\\WebStoreGB.Interfaces\\WebStoreGB.Interfaces.csproj"
+              },
+              "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Services\\WebStoreGB.Services\\WebStoreGB.Services.csproj": {
+                "projectPath": "E:\\GeekBrains\\ASP 01\\WebStoreGB\\Services\\WebStoreGB.Services\\WebStoreGB.Services.csproj"
+              },
+              "E:\\GeekBrains\\ASP 01\\WebStoreGB\\WebStore.Logger\\WebStore.Logger.csproj": {
+                "projectPath": "E:\\GeekBrains\\ASP 01\\WebStoreGB\\WebStore.Logger\\WebStore.Logger.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\GeekBrains\\ASP 01\\WebStoreGB\\WebStore.Logger\\WebStore.Logger.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GeekBrains\\ASP 01\\WebStoreGB\\WebStore.Logger\\WebStore.Logger.csproj",
+        "projectName": "WebStore.Logger",
+        "projectPath": "E:\\GeekBrains\\ASP 01\\WebStoreGB\\WebStore.Logger\\WebStore.Logger.csproj",
+        "packagesPath": "C:\\Users\\Andrey\\.nuget\\packages\\",
+        "outputPath": "E:\\GeekBrains\\ASP 01\\WebStoreGB\\WebStore.Logger\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Visual Stuio Кэш\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Andrey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

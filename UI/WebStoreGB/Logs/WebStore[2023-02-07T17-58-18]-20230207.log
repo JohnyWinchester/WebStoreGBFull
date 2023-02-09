@@ -1,0 +1,40 @@
+2023-02-07 17:58:20.009 +03:00 [Information] Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 17:58:20.073 +03:00 [Information] Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 17:58:22.211 +03:00 [Information] Received HTTP response headers after 2132.3752ms - 200
+2023-02-07 17:58:22.220 +03:00 [Information] End processing HTTP request after 2220.3589ms - 200
+2023-02-07 17:58:22.383 +03:00 [Information] Start processing HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 17:58:22.388 +03:00 [Information] Sending HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 17:58:22.461 +03:00 [Information] Received HTTP response headers after 73.1659ms - 200
+2023-02-07 17:58:22.464 +03:00 [Information] End processing HTTP request after 80.2461ms - 200
+2023-02-07 17:58:22.488 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:58:22.492 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:58:22.670 +03:00 [Information] Received HTTP response headers after 177.2983ms - 200
+2023-02-07 17:58:22.674 +03:00 [Information] End processing HTTP request after 185.5625ms - 200
+2023-02-07 17:58:22.952 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:58:22.955 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:58:22.966 +03:00 [Information] Received HTTP response headers after 11.3079ms - 200
+2023-02-07 17:58:22.969 +03:00 [Information] End processing HTTP request after 17.3277ms - 200
+2023-02-07 17:58:23.518 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:58:23.523 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:58:23.532 +03:00 [Information] Received HTTP response headers after 9.2986ms - 200
+2023-02-07 17:58:23.537 +03:00 [Information] End processing HTTP request after 19.1223ms - 200
+2023-02-07 17:58:25.719 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:58:25.722 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:58:25.728 +03:00 [Information] Received HTTP response headers after 5.634ms - 200
+2023-02-07 17:58:25.731 +03:00 [Information] End processing HTTP request after 12.9572ms - 200
+2023-02-07 17:58:25.880 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:58:25.883 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:58:25.889 +03:00 [Information] Received HTTP response headers after 5.5806ms - 200
+2023-02-07 17:58:25.892 +03:00 [Information] End processing HTTP request after 11.4663ms - 200
+2023-02-07 17:58:26.628 +03:00 [Information] Получен запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500
+2023-02-07 17:58:27.147 +03:00 [Information] Ответ на запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500
+2023-02-07 17:58:27.212 +03:00 [Information] Получен запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:58:27.671 +03:00 [Information] Получен запрос к GetJSON - id:321, msg:"QWE", Delay:1000
+2023-02-07 17:58:28.681 +03:00 [Information] Ответ на запрос к GetJSON - id:321, msg:"QWE", Delay:1000
+2023-02-07 17:58:29.231 +03:00 [Information] Ответ на запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:58:44.097 +03:00 [Information] Получен запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500
+2023-02-07 17:58:44.611 +03:00 [Information] Ответ на запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500
+2023-02-07 17:58:45.755 +03:00 [Information] Получен запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:58:47.775 +03:00 [Information] Ответ на запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:58:50.104 +03:00 [Information] Получен запрос к GetJSON - id:321, msg:"QWE", Delay:1000
+2023-02-07 17:58:51.121 +03:00 [Information] Ответ на запрос к GetJSON - id:321, msg:"QWE", Delay:1000

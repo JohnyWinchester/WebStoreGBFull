@@ -1,0 +1,35 @@
+2023-01-12 12:22:09.130 +03:00 [Information] Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-12 12:22:09.178 +03:00 [Information] Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-12 12:22:11.267 +03:00 [Information] Received HTTP response headers after 2086.5069ms - 200
+2023-01-12 12:22:11.273 +03:00 [Information] End processing HTTP request after 2149.0186ms - 200
+2023-01-12 12:22:11.384 +03:00 [Information] Start processing HTTP request "GET" https://localhost:5001/api/products/brands
+2023-01-12 12:22:11.387 +03:00 [Information] Sending HTTP request "GET" https://localhost:5001/api/products/brands
+2023-01-12 12:22:11.456 +03:00 [Information] Received HTTP response headers after 68.6737ms - 200
+2023-01-12 12:22:11.458 +03:00 [Information] End processing HTTP request after 74.1728ms - 200
+2023-01-12 12:22:11.477 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-01-12 12:22:11.480 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/products
+2023-01-12 12:22:11.666 +03:00 [Information] Received HTTP response headers after 185.8453ms - 200
+2023-01-12 12:22:11.670 +03:00 [Information] End processing HTTP request after 193.1355ms - 200
+2023-01-12 12:24:47.118 +03:00 [Information] Регистрация пользователя "Testik3"
+2023-01-12 12:24:47.190 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/users/SetPasswordHash
+2023-01-12 12:24:47.194 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/users/SetPasswordHash
+2023-01-12 12:24:47.759 +03:00 [Information] Received HTTP response headers after 565.3348ms - 200
+2023-01-12 12:24:47.764 +03:00 [Information] End processing HTTP request after 574.6243ms - 200
+2023-01-12 12:24:47.802 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/users/UserName
+2023-01-12 12:24:47.806 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/users/UserName
+2023-01-12 12:24:47.891 +03:00 [Information] Received HTTP response headers after 84.6414ms - 200
+2023-01-12 12:24:47.898 +03:00 [Information] End processing HTTP request after 95.9575ms - 200
+2023-01-12 12:24:47.911 +03:00 [Information] Start processing HTTP request "GET" https://localhost:5001/api/users/User/Normal/TESTIK3
+2023-01-12 12:24:47.918 +03:00 [Information] Sending HTTP request "GET" https://localhost:5001/api/users/User/Normal/TESTIK3
+2023-01-12 12:24:47.950 +03:00 [Information] Received HTTP response headers after 31.4336ms - 200
+2023-01-12 12:24:47.958 +03:00 [Information] End processing HTTP request after 46.7689ms - 200
+2023-01-12 12:24:47.970 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/users/UserId
+2023-01-12 12:24:47.974 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/users/UserId
+2023-01-12 12:24:47.983 +03:00 [Information] Received HTTP response headers after 9.1128ms - 200
+2023-01-12 12:24:47.989 +03:00 [Information] End processing HTTP request after 18.8098ms - 200
+2023-01-12 12:24:47.993 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/users/UserId
+2023-01-12 12:24:47.998 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/users/UserId
+2023-01-12 12:24:48.005 +03:00 [Information] Received HTTP response headers after 7.1636ms - 200
+2023-01-12 12:24:48.009 +03:00 [Information] End processing HTTP request after 15.1789ms - 200
+2023-01-12 12:24:48.015 +03:00 [Warning] User validation failed: "DuplicateUserName".
+2023-01-12 12:24:48.022 +03:00 [Warning] Ошибка при регистрации пользователя "Testik3": "Username 'Testik3' is already taken."

@@ -1,0 +1,12 @@
+E:\GeekBrains\ASP 01\WebStoreGB\WebStoreGB.Domain\bin\Release\net5.0\WebStoreGB.Domain.deps.json
+E:\GeekBrains\ASP 01\WebStoreGB\WebStoreGB.Domain\bin\Release\net5.0\WebStoreGB.Domain.dll
+E:\GeekBrains\ASP 01\WebStoreGB\WebStoreGB.Domain\bin\Release\net5.0\ref\WebStoreGB.Domain.dll
+E:\GeekBrains\ASP 01\WebStoreGB\WebStoreGB.Domain\bin\Release\net5.0\WebStoreGB.Domain.pdb
+E:\GeekBrains\ASP 01\WebStoreGB\WebStoreGB.Domain\obj\Release\net5.0\WebStoreGB.Domain.csproj.AssemblyReference.cache
+E:\GeekBrains\ASP 01\WebStoreGB\WebStoreGB.Domain\obj\Release\net5.0\WebStoreGB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\ASP 01\WebStoreGB\WebStoreGB.Domain\obj\Release\net5.0\WebStoreGB.Domain.AssemblyInfoInputs.cache
+E:\GeekBrains\ASP 01\WebStoreGB\WebStoreGB.Domain\obj\Release\net5.0\WebStoreGB.Domain.AssemblyInfo.cs
+E:\GeekBrains\ASP 01\WebStoreGB\WebStoreGB.Domain\obj\Release\net5.0\WebStoreGB.Domain.csproj.CoreCompileInputs.cache
+E:\GeekBrains\ASP 01\WebStoreGB\WebStoreGB.Domain\obj\Release\net5.0\WebStoreGB.Domain.dll
+E:\GeekBrains\ASP 01\WebStoreGB\WebStoreGB.Domain\obj\Release\net5.0\ref\WebStoreGB.Domain.dll
+E:\GeekBrains\ASP 01\WebStoreGB\WebStoreGB.Domain\obj\Release\net5.0\WebStoreGB.Domain.pdb

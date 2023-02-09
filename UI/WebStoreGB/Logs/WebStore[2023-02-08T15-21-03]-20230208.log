@@ -1,0 +1,21 @@
+2023-02-08 15:21:06.109 +03:00 [Information] Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-08 15:21:06.178 +03:00 [Information] Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-08 15:21:12.733 +03:00 [Information] Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-08 15:21:15.208 +03:00 [Information] Received HTTP response headers after 2470.9421ms - 200
+2023-02-08 15:21:15.213 +03:00 [Information] End processing HTTP request after 9112.6981ms - 200
+2023-02-08 15:21:15.377 +03:00 [Information] Start processing HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-08 15:21:15.389 +03:00 [Information] Sending HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-08 15:21:15.465 +03:00 [Information] Received HTTP response headers after 76.4634ms - 200
+2023-02-08 15:21:15.468 +03:00 [Information] End processing HTTP request after 91.3089ms - 200
+2023-02-08 15:21:15.496 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-08 15:21:15.499 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-08 15:21:15.692 +03:00 [Information] Received HTTP response headers after 192.8583ms - 200
+2023-02-08 15:21:15.696 +03:00 [Information] End processing HTTP request after 199.435ms - 200
+2023-02-08 15:21:16.013 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-08 15:21:16.016 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-08 15:21:16.028 +03:00 [Information] Received HTTP response headers after 12.4764ms - 200
+2023-02-08 15:21:16.031 +03:00 [Information] End processing HTTP request after 18.7804ms - 200
+2023-02-08 15:21:16.688 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-08 15:21:16.691 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-08 15:21:16.697 +03:00 [Information] Received HTTP response headers after 5.4035ms - 200
+2023-02-08 15:21:16.700 +03:00 [Information] End processing HTTP request after 12.1216ms - 200

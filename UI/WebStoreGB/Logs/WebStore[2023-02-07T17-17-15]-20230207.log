@@ -1,0 +1,38 @@
+2023-02-07 17:17:20.287 +03:00 [Information] Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 17:17:20.403 +03:00 [Information] Sending HTTP request "GET" https://localhost:5001/api/products/sections
+2023-02-07 17:17:25.381 +03:00 [Information] Received HTTP response headers after 4975.591ms - 200
+2023-02-07 17:17:25.390 +03:00 [Information] End processing HTTP request after 5111.8299ms - 200
+2023-02-07 17:17:25.584 +03:00 [Information] Start processing HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 17:17:25.587 +03:00 [Information] Sending HTTP request "GET" https://localhost:5001/api/products/brands
+2023-02-07 17:17:25.663 +03:00 [Information] Received HTTP response headers after 76.1427ms - 200
+2023-02-07 17:17:25.666 +03:00 [Information] End processing HTTP request after 81.6037ms - 200
+2023-02-07 17:17:25.688 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:17:25.691 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:17:26.008 +03:00 [Information] Received HTTP response headers after 316.7704ms - 200
+2023-02-07 17:17:26.012 +03:00 [Information] End processing HTTP request after 323.4095ms - 200
+2023-02-07 17:17:26.272 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:17:26.275 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:17:26.288 +03:00 [Information] Received HTTP response headers after 12.4963ms - 200
+2023-02-07 17:17:26.291 +03:00 [Information] End processing HTTP request after 19.4387ms - 200
+2023-02-07 17:17:26.845 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:17:26.848 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:17:26.854 +03:00 [Information] Received HTTP response headers after 6.2562ms - 200
+2023-02-07 17:17:26.858 +03:00 [Information] End processing HTTP request after 13.0447ms - 200
+2023-02-07 17:17:28.293 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:17:28.297 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:17:28.303 +03:00 [Information] Received HTTP response headers after 6.2323ms - 200
+2023-02-07 17:17:28.306 +03:00 [Information] End processing HTTP request after 13.8601ms - 200
+2023-02-07 17:17:28.441 +03:00 [Information] Start processing HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:17:28.445 +03:00 [Information] Sending HTTP request "POST" https://localhost:5001/api/products
+2023-02-07 17:17:28.452 +03:00 [Information] Received HTTP response headers after 6.7799ms - 200
+2023-02-07 17:17:28.455 +03:00 [Information] End processing HTTP request after 14.1898ms - 200
+2023-02-07 17:17:29.286 +03:00 [Information] Получен запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:17:31.302 +03:00 [Information] Ответ на запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:17:33.584 +03:00 [Information] Получен запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:17:35.590 +03:00 [Information] Ответ на запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:17:37.338 +03:00 [Information] Получен запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500
+2023-02-07 17:17:37.853 +03:00 [Information] Ответ на запрос к GetHTML - id:42, msg:"Hello HTML!", Delay:500
+2023-02-07 17:17:38.926 +03:00 [Information] Получен запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:17:38.981 +03:00 [Information] Получен запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:17:40.938 +03:00 [Information] Ответ на запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000
+2023-02-07 17:17:40.985 +03:00 [Information] Ответ на запрос к GetJSON - id:13, msg:"Hello JSON!", Delay:2000

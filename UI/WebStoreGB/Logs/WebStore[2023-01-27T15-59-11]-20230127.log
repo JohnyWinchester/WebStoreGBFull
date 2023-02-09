@@ -1,0 +1,2 @@
+2023-01-27 15:59:13.819 +03:00 [Information] Start processing HTTP request "GET" https://localhost:5001/api/products/sections
+2023-01-27 15:59:13.872 +03:00 [Information] Sending HTTP request "GET" https://localhost:5001/api/products/sections

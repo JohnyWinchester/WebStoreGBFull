@@ -1,0 +1,12 @@
+E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\bin\Debug\net5.0\WebStore.Logger.deps.json
+E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\bin\Debug\net5.0\WebStore.Logger.dll
+E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\bin\Debug\net5.0\WebStore.Logger.pdb
+E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\obj\Debug\net5.0\WebStore.Logger.csproj.AssemblyReference.cache
+E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\obj\Debug\net5.0\WebStore.Logger.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\obj\Debug\net5.0\WebStore.Logger.AssemblyInfoInputs.cache
+E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\obj\Debug\net5.0\WebStore.Logger.AssemblyInfo.cs
+E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\obj\Debug\net5.0\WebStore.Logger.csproj.CoreCompileInputs.cache
+E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\obj\Debug\net5.0\WebStore.Logger.dll
+E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\obj\Debug\net5.0\refint\WebStore.Logger.dll
+E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\obj\Debug\net5.0\WebStore.Logger.pdb
+E:\GeekBrains\ASP 01\WebStoreGB\WebStore.Logger\obj\Debug\net5.0\ref\WebStore.Logger.dll
